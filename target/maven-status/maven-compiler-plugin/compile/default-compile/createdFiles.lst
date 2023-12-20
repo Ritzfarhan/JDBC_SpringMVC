@@ -1,0 +1,4 @@
+com\example\springmvcexample\InstructorController.class
+com\example\springmvcexample\TraineeController.class
+com\example\springmvcexample\ProgramController.class
+bdUtil\DBConnect.class
